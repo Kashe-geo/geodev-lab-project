@@ -1,0 +1,10 @@
+# Project Brief
+
+## Project Question
+Which areas in Lagos state display the strongest urban heat island effects.
+
+## Data Required
+- Satellite imagery of Lagos from dry-season
+- The same-date optical bands, to compute NDVI
+- Lagos LGA/Wards boundaries
+- Population Data
