@@ -4,7 +4,7 @@ Mapping surface heat patterns across Lagos using satellite thermal imagery, and 
 
 ## Background
 
-As anyone who has been in Lagos these past couple of months can tell you, Lagos is getting hotter, and not evenly. Some Local Governments like Mushin, Ajegunle, Oshodi feel noticeably harsher conditions than their coastal counterparts like the Lekki and other more rural regions of the state. The urban heat island effect caused by impervious surfaces, lost wetlands and tree cover, building density trapping heat is a well-documented phenomenon. This project builds a map of where it's worst, using freely available satellite data rather than ground sensors.
+As anyone who has been in Lagos these past couple of months can tell you, Lagos is getting hotter, and not evenly. Some areas like Mushin, Ajegunle, Oshodi feel noticeably hotter than their coastal counterparts like Lekki and other more rural regions of the state. The urban heat island effect caused by impervious surfaces, lost wetlands and tree cover, building density trapping heat is a well-documented phenomenon. This project builds a map of where it's worst, using freely available satellite data rather than ground sensors.
 
 ## Data sources
 
