@@ -11,5 +11,5 @@ As anyone who has been in Lagos these past couple of months can tell you, Lagos 
 | Dataset | Purpose | Source |
 |---|---|---|
 | Landsat 8/9 Collection 2 Level-2 (Band 10 ST, Bands 4/5) | Surface temperature + NDVI | [USGS EarthExplorer](https://earthexplorer.usgs.gov) / [Google Earth Engine](https://earthengine.google.com)|
-| Lagos ward boundaries | Zonal statistics units | [GADM](https://gadm.org), Lagos State Open Data, or [GRID3](https://data.grid3.org) LGA boundaries|
+| Lagos ward boundaries | Zonal statistics units | [GADM](https://gadm.org), or [GRID3](https://data.grid3.org) LGA boundaries|
 | WorldPop Nigeria population raster | Context  | [worldpop.org](https://worldpop.org) |
