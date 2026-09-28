@@ -59,17 +59,18 @@ Which LGAs in Lagos State show the strongest surface urban heat island effect, a
 | Middle band | Kosofe (32.7 °C), Amuwo-Odofin (32.6 °C), Eti-Osa (32.6 °C), Lagos Mainland (32.2 °C) |
 | Coolest LGAs (valid) | Ojo (30.4 °C), Badagry (30.7 °C) |
 | Invalid (incomplete coverage) | Epe (−7.6 °C), Ibeju-Lekki (12.3 °C) |
-| Most populous LGA | *[fill in: name, population]* |
-| Population total (all LGAs) | *[fill in]* |
 
 **Pattern:** the hottest LGAs form a belt along the northern mainland (Agege, Ifako-Ijaye, Alimosho) and Ikorodu, rather than the southern core I expected. The western coastal LGAs, Ojo and Badagry, are the coolest valid results, about 5.7 °C below Agege.
 
 **Map:**
 
-![Mean land surface temperature by LGA, Lagos State, Jan–Feb 2026](output/UHI.png)
+![Mean land surface temperature by LGA, Lagos State, Jan–Feb 2026](Output/UHI.png)
 
+## 6. What surprised me
 
-## 6. Data I still need
+The hottest LGAs were on the northern mainland (Agege, Ifako-Ijaye, Alimosho) and Ikorodu, not the dense southern core I predicted (Mushin, Oshodi-Isolo, Lagos Mainland). The impossible values for Epe (−7.6 °C) and Ibeju-Lekki (12.3 °C) also showed that my Landsat mosaic doesn't cover eastern Lagos fully.
+
+## 7. Data I still need
 
 - **NDVI** from Landsat Bands 4 and 5 for the same dates, to test how much of the heat pattern is explained by vegetation loss (the project's main hypothesis).
 - **Verified ward boundaries** for Lagos, to move from 20 coarse LGAs to finer units; large LGAs such as Epe and Ibeju-Lekki average dense towns with empty wetland.
